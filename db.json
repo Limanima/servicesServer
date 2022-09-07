@@ -6,7 +6,17 @@
     },
     {
       "id": 2,
-      "title": "Módulos"
+      "title": "Módulos",
+	  "subItems" : [
+	    {
+		  "id": 1,
+		  "title": "Modulos por Ambiente"
+	    },
+	    {
+		  "id": 2,
+		  "title": "Modulos por Host"
+	    }
+	  ]
     },
     {
       "id": 3,
